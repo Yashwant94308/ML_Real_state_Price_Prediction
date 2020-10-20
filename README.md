@@ -1,0 +1,2 @@
+* ML_Real_state_Price_Prediction *
+FLASK SERVER AND MACHINE LEARNING MODEL AT BACK END
